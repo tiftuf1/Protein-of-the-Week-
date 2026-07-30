@@ -4,7 +4,7 @@
 
 ## Rotating Structure
 
-![Dronpa Rotation](proteins/001_Dronpa/dronpa_rotation.gif)
+![Dronpa Rotation](dronpa_rotation.gif)
 
 # Where is it found?
 Found by isolating from the jellyfish Aequorea Victoria first discovered in 1960
