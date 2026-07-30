@@ -4,7 +4,7 @@
 
 ## Rotating Structure
 
-![Cas9 Rotation](../../gifs/dronpa_rotation.gif)
+![Dronpa Rotation](../gifs/dronpa_rotation.gif)
 
 # Where is it found?
 Found by isolating from the jellyfish Aequorea Victoria first discovered in 1960
