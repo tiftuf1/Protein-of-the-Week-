@@ -21,3 +21,10 @@ Again, scientists exploit this protein by manipulating the sgRNA to direct the C
 	So, the protein doesn’t only bind to sgRNA, but also crRNA and tracrRNA. cRNA contains 20-nucletides that match the viral target, while tracrRNA acts as the structural scaffolding that 		fits into the grooves of Cas9. 
 3. What is a valid PAM site like for the cas9 protein?
 	A valid PAM site for wild-type Cas9 is strictly 5’-NGG-3’, a huge constraint, but scientist edit Cas9 with different PAM-interacting domains to recognize sits like 5’-NGA-3’, 5’-NGCG-3’, 		etc. 
+
+Sources:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4975809/
+https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/cas9
+https://prankweb.cz/
+https://www.rcsb.org/
+https://ezgif.com/
