@@ -21,8 +21,7 @@ This repository documents my journey through structural biology by studying prot
 |   | Protein | PDB ID | Status |
 |---|---------|--------|--------|
 | 1 | Dronpa | 2GX2 |  Complete |
-| 2 | GFP | 1GFL |  In Progress |
-| 3 | Cas9 | 4OO8 | Planned |
+| 2 | Cas9 | 4UN3 | Complete |
 
 
 ## Why I'm Doing This
