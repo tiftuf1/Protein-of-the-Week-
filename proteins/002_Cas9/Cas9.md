@@ -15,9 +15,9 @@ There is one binding pocket, with a PrankWeb score of 18.66 and a probability of
 ## How do scientists exploit this protein?
 Again, scientists exploit this protein by manipulating the sgRNA to direct the Cas9 to any specific genetic sequences. This has an incredible amount of potential, and jumpstarted recombinant DNA research, the art of joining pieces od DNA from different sources, using the Cas9 protein.
 ## Questions and answers during research
-What is the difference between endonucleases and regular nucleases? Is it just their local position?
-Endonucleases cut internally within a DNA or RNA strand, while exonucleases cut only from the outside end (3’ or 5’), and connect cut closed, circular pieces of DNA because it would lack free ends that it can cut.
-Why does it only bind to single guide RNA (sgRNA) instead of just gRNA? Is there some compatibility constraint? 
-So, the protein doesn’t only bind to sgRNA, but also crRNA and tracrRNA. cRNA contains 20-nucletides that match the viral target, while tracrRNA acts as the structural scaffolding that fits into the grooves of Cas9. 
-What is a valid PAM site like for the cas9 protein?
-	A valid PAM site for wild-type Cas9 is strictly 5’-NGG-3’, a huge constraint, but scientist edit Cas9 with different PAM-interacting domains to recognize sits like 5’-NGA-3’, 5’-NGCG-3’, etc. 
+1. What is the difference between endonucleases and regular nucleases? Is it just their local position?
+	Endonucleases cut internally within a DNA or RNA strand, while exonucleases cut only from the outside end (3’ or 5’), and connect cut closed, circular pieces of DNA because it would lack 		free ends that it can cut.
+2. Why does it only bind to single guide RNA (sgRNA) instead of just gRNA? Is there some compatibility constraint? 
+	So, the protein doesn’t only bind to sgRNA, but also crRNA and tracrRNA. cRNA contains 20-nucletides that match the viral target, while tracrRNA acts as the structural scaffolding that 		fits into the grooves of Cas9. 
+3. What is a valid PAM site like for the cas9 protein?
+	A valid PAM site for wild-type Cas9 is strictly 5’-NGG-3’, a huge constraint, but scientist edit Cas9 with different PAM-interacting domains to recognize sits like 5’-NGA-3’, 5’-NGCG-3’, 		etc. 
