@@ -1,8 +1,10 @@
 # What is this protein?
 ## Green Fluorescent proteins (GFPs) are bioluminescent proteins which when exposed to blue or ultraviolet light, emits a bright green glow.
 
-![Dronpa Rotation](dronpa_rotation.gif)
 
+## Rotating Structure
+
+![Dronpa Rotation](proteins/001_Dronpa/dronpa_rotation.gif)
 
 # Where is it found?
 Found by isolating from the jellyfish Aequorea Victoria first discovered in 1960
