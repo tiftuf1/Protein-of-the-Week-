@@ -1,5 +1,7 @@
 ## Protein Information
-This protein is a specialized RNA-guided endonuclease enzyme originally derived from Streptococcus pyogenes and found to be a component of its adaptive immune system. This protein acts as      molecular scissors to cut double stranded DA by pairing with synthetic single guide RNA (sgRNA) to form a complex. This complex searches for a valid PAM site which upon correct base-paring,    cleaves the target strand, resulting in an incredibly precise double stranded break.
+This protein is a specialized RNA-guided endonuclease enzyme originally derived from Streptococcus pyogenes and found to be a component of its adaptive immune system. This protein acts as      molecular scissors to cut double stranded DA by pairing with synthetic single guide RNA (sgRNA) to form a complex. This complex searches for a valid PAM site which upon correct base-paring,    cleaves the target strand, resulting in an incredibly precise double stranded break.]
+## Protein 3D
+![Cas9 Rotation](../gifs/Cas9_3d.gif)
 ## Biological Importance of Proper Function
 Cas9 is of critical importance, creating a bacteria that’s highly vulnerable to viral destruction if lacking in its presence. When a virus (bacteriophage) attacks the bacterium, the bacterium saves a snippet of the virus in its own genome, a part of their adaptive immune system, and when the same virus invades, it can create a RNA copy that is loaded into the Cas9 protein which eventually destroys the virus.
 
