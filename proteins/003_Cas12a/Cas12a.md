@@ -1,6 +1,10 @@
 ## What is this protein?	
   This protein is a short palindromic repeat that is apart of the adaptive immune system of many bacterial species, mainly anaerobic, that helps provide protection against viruses, transposable elements, and conjugative plasmids.  It works by recognizing a PAM sequence, a 5’ T-rich protospacer adjacent motif (TTTN), on a foreign DNA and once recognized, melts and bends open the double stranded DNA. Following this, Cas12a carries a short piece of CRISPR RNA (crRNA) that contains a 20 nucleotide “space” sequence that if fits perfectly, binds together base-by-base, creating a stable DNA-RNA structure called an R loop. This R-loop then shifts the shape of Cas12a to activate its single catalytic cutting site called a RuvC domain, cutting the two strands of DNA at different positions, unlike Cas9 that cuts across leaving blunt ends. This cutting results in a staggered, sticky end overhand.
 
+  
+![Cas9 Rotation](../gifs/cas12a_gif.gif)
+
+
 ## Biological Importance of Proper Function
 What is this protein's normal job?
 	Protection against bacteriophages is the only job in the bacteria, but often  engineering by scientists for gene editing. If this protein is lacking in the bacteria, it completely eliminates the ability to defend itself against bacteriophages unless it also has Cas9 which is incredibly unlikely. Scientists should care about Cas12a because it is far more specific then Cas9 allowing for superior gene insertion, the ability to target regions of the genome Cas9 cant edit, and safer editing away from the target site. Specifically, Cas12a leaves a staggered sticky ends that allows it to be better at inserting  new genes into the genome via Homology directed repair (HDR). Now because Cas12a targets regions rich in thymine (PAM sequence being TTTN), we can successfully target AT-rich regions that Cas9 (PAM sequence being NGG) couldn’t. 
