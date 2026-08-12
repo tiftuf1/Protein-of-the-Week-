@@ -21,15 +21,23 @@ Scientists exploit this protein in all sorts of creative and innovative ways. On
 
 
 ## Questions I still have
-Why is it most common is anaerobic bacteria?
+1. Why is it most common is anaerobic bacteria?
 
   A unique property of anaerobic bacteria is a low GC content, and a rich AT genome. To cut foreign DNA, Cas12a must first recognize a PAM sequence that looks like 5’-TTTN, which is rich in Ts. Another feature of living in these anaerobic environments is having a diverse amount of bacteriophages, explaining why many anaerobes have 
 
-Even with the Cas9 protein, does lacking in the Cas12a result in a complete loss of the adaptive immune system? 
+2. Even with the Cas9 protein, does lacking in the Cas12a result in a complete loss of the adaptive immune system? 
   
   If you have the Cas12a, you are very unlikely to have the Cas9 protein, so only specific bacteria carry Cas9 (Type II CRISPR), while others carry only the Cas12a (Type V CRISPR). So yes, if you are lacking in the Cas12a, you will most likely lose your adaptive immune system as carrying both Cas9 and Cas12a takes up a lot of cellular energy and space. 
 
 
-When your intentions are to incorporate a foreign DNA into another organism, how to you ensure that its not considered useless baggage like having both Cas9 and Cas12a?
+3. When your intentions are to incorporate a foreign DNA into another organism, how to you ensure that its not considered useless baggage like having both Cas9 and Cas12a?
 	
   You can use a couple of methods, such as codon optimization, matching the promoters and terminators, evading host defense systems, directing to genomic “safe reasons”,  and metabolic engineering. Scientists run foreign genes through a computer algorithm that allows the DNA letters to match the hosts organisms “dialect” while keeping the protein the same. Now, a gene cannot turn itself on, it requires an upstream promoter and a downstream terminator to work. To fix this issue, you engineer the foreign gene’s to match the native control switches (promoters and terminators). This strips away all foreign control switches and enable highly efficient bacterial promoters, such as tac of T7, to force the machinery to bind and copy the foreign DNA. A very large difficulty is evading the host defense system, so to avoid it, scientists introduce silent mutations into the foreign gene, changing the sequence and allowing it to slip past the host’s defense system unnoticed. If scientist end up randomly inserting the foreign gene, it has a chance to integrate into heterochromatin, silencing the gene, so to avoid this we target open, highly active regions called genomic safe harbors using HDR. Now, we don’t want to leave the foreign DNA to be turned on at maximum volume, so we integrate inducible promoters that switch the foreign gene off while the host cell grows large and healthy in which we add a trigger to flip the switch and activate the protein. 
+
+
+Sources:
+https://www.uniprot.org/uniprotkb/U2UMQ6/entry
+https://fiveable.me/college-bio/key-terms/foreign-dna
+https://www.idtdna.com/pages/products/crispr-genome-editing/alt-r-crispr-enzymes/cas12a-protein#product-details
+https://www.rcsb.org/3d-view/9MKT/
+https://ezgif.com/
