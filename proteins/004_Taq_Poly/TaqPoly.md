@@ -1,7 +1,7 @@
 # What is this protein?	
 This protein is a heat-stable enzyme that builds new DNA strands at high temperatures. It is derived from Thermus aquaticus, a bacteria found in hot springs, surviving temperatures up to 95 C without breaking down. Now in the lab, it is used incredibly often during PCR, medical tests, and cloning. The limitations of using this polymerase instead of others is that it lacks no proofreading.  
 
-
+![Taq Rotation](../gifs/taq_poly.gif)
 
 
 # Biological Importance of Proper Function
